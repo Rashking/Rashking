@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 **Full Stack Developer** with a passion for creating impactful digital experiences.
-- 🎓 **Undergraduate Student** at the Sri Lanka Institute of Information Technology (SLIIT), specializing in Information Technology.
+- 🎓 **Undergraduate Student** at the Sri Lanka Institute National Institute of Business Management (NIBM), specializing in software engineering.
 - 🌐 **Associate UI/UX Engineer** at CelataTech, focusing on intuitive and user-friendly designs.
 - 🎨 **Frontend Developer** with a keen eye for detail and aesthetics.
 
