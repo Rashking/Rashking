@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 🚀 Fullstack Developer and Aspiring Game & Mobile Application Developer
@@ -70,4 +70,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RaweeshaL)
 
 </div>
-```
+
